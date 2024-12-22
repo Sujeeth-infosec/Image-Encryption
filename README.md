@@ -1,5 +1,8 @@
 # Secure Image Encryption
 
+![{2A66608C-99DF-4C42-ABCA-9786997C9DC6}](https://github.com/user-attachments/assets/a15e7b03-1ea9-4257-9d4c-4577c91e191b)
+
+
 A modern web application for secure client-side image encryption using the AES-GCM algorithm. Built with React, TypeScript, and Web Crypto API.
 
 ## Features
